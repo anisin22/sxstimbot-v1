@@ -1,0 +1,9 @@
+
+  {
+    "prefix1": "+",
+    "ownerID": "----------------",
+    "token": "------------------------------",
+    "dog_api_key": "----------------------------",
+    "DOG_API_URL" : "https://api.thedogapi.com/v1/images/search?breed_id=222"
+  
+  }
